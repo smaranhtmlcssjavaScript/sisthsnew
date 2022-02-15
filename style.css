@@ -1,0 +1,10 @@
+body {
+    text-align:center;
+    background-color:#050505;
+    color:white;
+}
+#head {
+    font-family:Verdana;
+    text-align:center;
+    padding-left:30px;
+}
